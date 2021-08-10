@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<h1 align="center">Hi 👋 I'm Harianth Mallela</h1>
+<h3 align="center">Data Scientist and Full Stack Software Developer</h3>
 <!--
 **harinathmallela223/harinathmallela223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
